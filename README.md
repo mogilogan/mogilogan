@@ -1,4 +1,4 @@
-[![Mogi's GitHub Banner](./assets/GitHubHeader.jpeg)](https://braydoncoyer.dev)
+![Mogi's GitHub Banner](./assets/GitHubHeader.jpg)
 
 
 <!--
