@@ -20,18 +20,19 @@ and a self-taught developer with deep passion for Computer-Science and Technolog
 
 **Languages and Tools:**  
 
-<code><img height="20" src="./assets/tech/React.png"></code>
-<code><img height="20" src="./assets/tech/Next.js.png"></code>
-<code><img height="20" src="./assets/tech/Java.png"></code>
-<code><img height="20" src="./assets/tech/TypeScript.png"></code>
-<code><img height="20" src="./assets/tech/Java.png"></code>
-<code><img height="20" src="./assets/tech/Express.png"></code>
-<code><img height="20" src="./assets/tech/Redux.png"></code>
-<code><img height="20" src="./assets/tech/Firebase.png"></code>
-<code><img height="20" src="./assets/tech/MySQL.png"></code>
-<code><img height="20" src="./assets/tech/MongoDB.png"></code>
-<code><img height="20" src="./assets/tech/AWS.png"></code>
-<code><img height="20" src="./assets/tech/Python.png"></code>
+<code><img height="30" src="./assets/tech/React.png"></code>
+<code><img height="30" src="./assets/tech/Next.js.png"></code>
+<code><img height="30" src="./assets/tech/JavaScript.png"></code>
+<code><img height="30" src="./assets/tech/TypeScript.png"></code>
+<code><img height="30" src="./assets/tech/Node.png"></code>
+<code><img height="30" src="./assets/tech/Java.png"></code>
+<code><img height="30" src="./assets/tech/Express.png"></code>
+<code><img height="30" src="./assets/tech/Redux.png"></code>
+<code><img height="30" src="./assets/tech/Firebase.png"></code>
+<code><img height="30" src="./assets/tech/MySQL.png"></code>
+<code><img height="30" src="./assets/tech/MongoDB.png"></code>
+<code><img height="30" src="./assets/tech/AWS.png"></code>
+<code><img height="30" src="./assets/tech/Python.png"></code>
 
 
 
@@ -43,14 +44,17 @@ and a self-taught developer with deep passion for Computer-Science and Technolog
 
 
 -----
-## Stats
-<a href="https://github.com/mogilogan">
+<details>
+<summary>📈 My GitHub Stats</summary>
+<p align="center">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mogilogan&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+</p>
 <br/>
-<a href="https://github.com/mogilogan">
+<p align="center">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=mogilogan&show_icons=true&theme=merko&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34&theme=radical" alt="Martin's GitHub Stats" />
-</a>
+</p>
+
+</details>
 
 
 
