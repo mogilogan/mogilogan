@@ -52,10 +52,10 @@ Hosting<br/>
 
 ## Social
 
-[![Skill](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mogiegan/)
-[![Skill](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mogiegan)
-[![Skill](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=8672641622868342551)
-
+## Find me around the web 🌎: <a href="https://github.com/mogilogan"><img align="left" width="150" height="150" src="./assets/findme.gif"></a>
+- Learning in public on <a href="https://moginder.vercel.app/">moginder.dev</a> 📹 ✍🏾
+-  <a href="https://medium.com/@mogiegan"> Medium</a> 🏓
+- Sharing updates on <a href="https://www.linkedin.com/in/mogiegan/">LinkedIn</a> 💼
 
 <br>
 
